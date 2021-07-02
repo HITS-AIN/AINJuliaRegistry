@@ -18,3 +18,11 @@ If used with a fresh installation of Julia, use before (see issue [here](https:/
 ```
 registry add https://github.com/HITS-AIN/AINJuliaRegistry
 ```
+
+## Removing the registry
+
+To remove this registry simply use:
+
+```
+registry rm AINJuliaRegistry
+```
