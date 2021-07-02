@@ -4,3 +4,4 @@ repo = "https://github.com/HITS-AIN/AINJuliaRegistry"
 description = "Julia registry for AIN produced packaged"
 
 [packages]
+333a9a01-0e78-4d37-bce2-040f730ab5dc = { name = "ProbabilisticFluxVariationGradient", path = "P/ProbabilisticFluxVariationGradient" }
