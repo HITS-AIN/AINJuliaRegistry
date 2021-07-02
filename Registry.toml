@@ -1,0 +1,6 @@
+name = "AINJuliaRegistry"
+uuid = "2ee46816-d155-477a-8b1b-420be10adb15"
+repo = "https://github.com/HITS-AIN/AINJuliaRegistry"
+description = "Julia registry for AIN produced packaged"
+
+[packages]
