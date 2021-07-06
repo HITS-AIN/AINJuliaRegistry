@@ -6,3 +6,4 @@ description = "Julia registry for AIN produced packaged"
 [packages]
 333a9a01-0e78-4d37-bce2-040f730ab5dc = { name = "ProbabilisticFluxVariationGradient", path = "P/ProbabilisticFluxVariationGradient" }
 593bb313-7fc8-446a-96f6-bb1e55a541c0 = { name = "PFVG_AA2021", path = "P/PFVG_AA2021" }
+bed5aa27-02b8-4ff5-9059-ea84d329c778 = { name = "FFTConvolution", path = "F/FFTConvolution" }
