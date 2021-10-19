@@ -1,0 +1,3 @@
+name = "GPCCVirialDatasets"
+uuid = "810c7527-083f-4752-b846-ece447c8890f"
+repo = "https://github.com/ngiann/GPCCVirialDatasets.jl"
