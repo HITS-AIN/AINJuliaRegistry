@@ -12,6 +12,11 @@ BlockArrays = "0.15-0.16"
 Crayons = "4"
 Distributions = ["0.16-0.18", "0.19.1-0.25"]
 MLBase = "0.9"
-Optim = "1"
 PyPlot = "2.6.1-2"
 StatsFuns = "0.9"
+
+["0.1.1-0.1.4"]
+Optim = "1"
+
+["0.1.5-0"]
+Optim = "1.2.0-1"
