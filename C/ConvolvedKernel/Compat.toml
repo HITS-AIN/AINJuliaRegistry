@@ -1,0 +1,8 @@
+[0]
+FFTConvolution = "0.1.10-0.1"
+FFTW = "1.4.0-1"
+Interpolations = "0.13"
+PyPlot = "2.6.1-2"
+SpecialFunctions = "1.8.0-2"
+TransferFunctions = "0.1.48-0.1"
+julia = "1"

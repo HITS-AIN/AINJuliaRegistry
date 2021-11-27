@@ -4,6 +4,7 @@ repo = "https://github.com/HITS-AIN/AINJuliaRegistry"
 description = "Julia registry for AIN produced packaged"
 
 [packages]
+30948f7f-c957-44d1-beec-220c81666700 = { name = "ConvolvedKernel", path = "C/ConvolvedKernel" }
 333a9a01-0e78-4d37-bce2-040f730ab5dc = { name = "ProbabilisticFluxVariationGradient", path = "P/ProbabilisticFluxVariationGradient" }
 593bb313-7fc8-446a-96f6-bb1e55a541c0 = { name = "PFVG_AA2021", path = "P/PFVG_AA2021" }
 643c7dc9-154b-47f5-a9a9-7aebf3d59150 = { name = "GPCCVirial", path = "G/GPCCVirial" }
