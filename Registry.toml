@@ -8,4 +8,5 @@ description = "Julia registry for AIN produced packaged"
 593bb313-7fc8-446a-96f6-bb1e55a541c0 = { name = "PFVG_AA2021", path = "P/PFVG_AA2021" }
 643c7dc9-154b-47f5-a9a9-7aebf3d59150 = { name = "GPCCVirial", path = "G/GPCCVirial" }
 810c7527-083f-4752-b846-ece447c8890f = { name = "GPCCVirialDatasets", path = "G/GPCCVirialDatasets" }
+99dd9245-5fd5-4439-81a6-2183e70e1908 = { name = "ConvolvedKernel", path = "C/ConvolvedKernel" }
 ea5a6cf0-6c34-4305-a4f4-b4303448266d = { name = "FFTConvolution", path = "F/FFTConvolution" }
