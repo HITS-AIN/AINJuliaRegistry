@@ -1,9 +1,0 @@
-[0]
-Cuba = "2.1.0-2"
-FFTW = "1.4.0-1"
-Interpolations = "0.13"
-ProgressMeter = "1.7.0-1"
-PyPlot = "2.6.1-2"
-QuadGK = "2.4.0-2"
-SpecialFunctions = "1.7.0-2"
-julia = "1"
