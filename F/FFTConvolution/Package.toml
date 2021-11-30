@@ -1,0 +1,3 @@
+name = "FFTConvolution"
+uuid = "ea5a6cf0-6c34-4305-a4f4-b4303448266d"
+repo = "https://github.com/ngiann/FFTConvolution.jl"
