@@ -7,7 +7,7 @@ Packages registered with the general registry of Julia will not be registered he
 
 ## Using the registry
 
-To use this registry, enter package mode with ```]``` and execute (you may prompted for your github credentials):
+To use this registry, enter package mode with ```]``` in the REPL and execute (you may prompted for your github credentials):
 
 ```
 registry add https://github.com/HITS-AIN/AINJuliaRegistry
