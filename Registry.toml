@@ -8,3 +8,4 @@ description = "Julia registry for AIN produced packaged"
 593bb313-7fc8-446a-96f6-bb1e55a541c0 = { name = "PFVG_AA2021", path = "P/PFVG_AA2021" }
 643c7dc9-154b-47f5-a9a9-7aebf3d59150 = { name = "GPCCVirial", path = "G/GPCCVirial" }
 810c7527-083f-4752-b846-ece447c8890f = { name = "GPCCVirialDatasets", path = "G/GPCCVirialDatasets" }
+d2256c36-f6cb-4f2b-bb45-9577641c7b75 = { name = "FastParzenWindows", path = "F/FastParzenWindows" }
