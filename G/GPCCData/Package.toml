@@ -1,0 +1,3 @@
+name = "GPCCData"
+uuid = "6ae24528-df3b-47a6-8d0b-c8e9925c8a04"
+repo = "https://github.com/ngiann/GPCCData.jl"
