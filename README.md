@@ -19,6 +19,16 @@ If used with a fresh installation of Julia, use before (see issue [here](https:/
 registry add https://github.com/JuliaRegistries/General
 ```
 
+## Updating packages in AINJuliaRegistry
+
+Switch into "package mode" with ```]``` and add type ```registry update AINJuliaRegistry```.
+
+(You may prompted for your github credentials.)
+
+This will make Julia update all packages associated with AINJuliaRegistry registry.
+
+Alternatively, enter package mode and type ```up```. This will update all installed Julia packages, including the ones of this registry.
+
 ## Removing the registry
 
 To remove this registry simply use:
