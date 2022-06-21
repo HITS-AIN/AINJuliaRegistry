@@ -1,4 +1,8 @@
-# AINJuliaRegistry
+<h1 align="center">AINJuliaRegistry</h1>
+
+<p align="center">
+  <img width="200" height="200" src=ain_logo_no_shadow.jpg>
+</p>
 
 ## ⓘ What is this?
 
