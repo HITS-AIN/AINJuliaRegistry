@@ -1,0 +1,4 @@
+[0]
+PyPlot = "2.9.0-2"
+VideoIO = "1"
+julia = "1"

@@ -4,6 +4,7 @@ repo = "https://github.com/HITS-AIN/AINJuliaRegistry"
 description = "Julia registry for AIN produced packaged"
 
 [packages]
+038d5f8c-ab5d-45c3-ad7a-0ef8a069b1c5 = { name = "HITSOpenDay2022", path = "H/HITSOpenDay2022" }
 333a9a01-0e78-4d37-bce2-040f730ab5dc = { name = "ProbabilisticFluxVariationGradient", path = "P/ProbabilisticFluxVariationGradient" }
 593bb313-7fc8-446a-96f6-bb1e55a541c0 = { name = "PFVG_AA2021", path = "P/PFVG_AA2021" }
 643c7dc9-154b-47f5-a9a9-7aebf3d59150 = { name = "GPCCVirial", path = "G/GPCCVirial" }
