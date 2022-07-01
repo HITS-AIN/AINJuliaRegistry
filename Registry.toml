@@ -6,6 +6,7 @@ description = "Julia registry for AIN produced packaged"
 [packages]
 038d5f8c-ab5d-45c3-ad7a-0ef8a069b1c5 = { name = "HITSOpenDay2022", path = "H/HITSOpenDay2022" }
 333a9a01-0e78-4d37-bce2-040f730ab5dc = { name = "ProbabilisticFluxVariationGradient", path = "P/ProbabilisticFluxVariationGradient" }
+4ead5c4e-c2ff-4d62-91d1-2960feabfb2a = { name = "HITSOpenDayJuly2022", path = "H/HITSOpenDayJuly2022" }
 593bb313-7fc8-446a-96f6-bb1e55a541c0 = { name = "PFVG_AA2021", path = "P/PFVG_AA2021" }
 643c7dc9-154b-47f5-a9a9-7aebf3d59150 = { name = "GPCCVirial", path = "G/GPCCVirial" }
 6ae24528-df3b-47a6-8d0b-c8e9925c8a04 = { name = "GPCCData", path = "G/GPCCData" }
