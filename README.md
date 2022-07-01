@@ -42,3 +42,9 @@ To remove this registry simply use:
 ```
 registry rm AINJuliaRegistry
 ```
+
+## Remove package from registry (note to maintainers)
+
+Currently, this has to be done manually. 
+Simply delete the directory that holds the relevant contents.
+Also remove the corresponding line from file `Registry.toml`.
