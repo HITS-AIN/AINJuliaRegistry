@@ -1,4 +1,4 @@
-[0]
+["0-0.2.5"]
 julia = "1"
 
 ["0.2-0"]
@@ -15,3 +15,8 @@ PyPlot = "2"
 StatsBase = "0.33"
 Suppressor = "0.2"
 VideoIO = "1"
+
+["0.2.6-0"]
+DataStructures = "0.18.13-0.18"
+GPCC = "0.1.26-0.1"
+julia = "1.6.0-1"
