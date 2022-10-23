@@ -1,0 +1,3 @@
+name = "ICCF"
+uuid = "2763b4c3-16b4-4cc4-aaa5-7caef3d341dd"
+repo = "https://github.com/ngiann/ICCF.jl"
