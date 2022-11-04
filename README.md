@@ -4,7 +4,7 @@
   <img width="200" height="200" src=ain_logo_no_shadow.jpg>
 </p>
 
-## ⓘ What is this?
+##  ℹ What is this?
 
 Registry for simplifying the installation of Julia packages produced by AIN group.
 
@@ -43,7 +43,7 @@ To remove this registry simply use:
 registry rm AINJuliaRegistry
 ```
 
-## Remove package from registry (note to maintainers)
+### ❌ Note to maintainers: remove package from registry 
 
 Currently, this has to be done manually. 
 Simply delete the directory that holds the relevant contents.
