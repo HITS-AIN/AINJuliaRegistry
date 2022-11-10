@@ -1,0 +1,3 @@
+name = "GPCC"
+uuid = "4498ab02-56af-48f6-b5af-4c1c07c71523"
+repo = "https://github.com/HITS-AIN/GPCC.jl.git"
