@@ -43,7 +43,7 @@ To remove this registry simply use:
 registry rm AINJuliaRegistry
 ```
 
-### ❗ Note to maintainers: remove package from registry 
+#### ❗ Note to maintainers: remove package from registry 
 
 Currently, this has to be done manually. 
 Simply delete the directory that holds the relevant contents.
