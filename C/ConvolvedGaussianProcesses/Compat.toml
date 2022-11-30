@@ -1,0 +1,12 @@
+[0]
+ConvolvedKernel = "0.1.14-0.1"
+Crayons = "4"
+Distributions = ["0.16-0.18", "0.19.1-0.25"]
+MLBase = "0.9"
+MiscUtil = "0.1.16-0.1"
+Optim = "1"
+ProgressMeter = "1"
+PyPlot = "2"
+StatsFuns = "1"
+Suppressor = "0.2"
+julia = "1"
