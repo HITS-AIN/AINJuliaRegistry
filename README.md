@@ -10,7 +10,7 @@ Registry for simplifying the installation of Julia packages produced by AIN grou
 
 Packages registered with the general registry of Julia will not be registered here too.
 
-## <img width="60" height="39" src=smalljulia.png>
+## <img width="27" height="17.5" src=smalljulia.png> Installing Julia
 
 The easiest way of installing Julia is by downloading a binary file and simply uncompressing it in your folder of choice. Please see [here](https://julialang.org/downloads/) for platform specific instructions. Alternatively, one may choose to compile Julia from the source code.
 
