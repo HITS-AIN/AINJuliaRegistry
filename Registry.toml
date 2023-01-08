@@ -15,4 +15,5 @@ description = "Julia registry for AIN produced packaged"
 8b4f48ce-6449-4e45-815e-453786827800 = { name = "SynthReverberationProblemsIS", path = "S/SynthReverberationProblemsIS" }
 99dd9245-5fd5-4439-81a6-2183e70e1908 = { name = "ConvolvedKernel", path = "C/ConvolvedKernel" }
 cff4ffb7-3881-4a2c-8cec-a201ef7afd5c = { name = "TransferFunctions", path = "T/TransferFunctions" }
+d2256c36-f6cb-4f2b-bb45-9577641c7b75 = { name = "FPW", path = "F/FPW" }
 e472fcb8-ab9f-4ff8-82d2-c5cadce53af3 = { name = "MiscUtil", path = "M/MiscUtil" }
