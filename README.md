@@ -32,7 +32,7 @@ registry add https://github.com/JuliaRegistries/General
 
 Switch into "package mode" with ```]``` and add type ```registry update AINJuliaRegistry```.
 
-(You may prompted for your github credentials.)
+(@HITS-AIN users: You may prompted for your github credentials)
 
 This will make Julia update all packages associated with AINJuliaRegistry registry.
 
