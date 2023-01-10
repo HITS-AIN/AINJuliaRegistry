@@ -6,7 +6,7 @@
 
 ##  ℹ What is this?
 
-Registry for simplifying the installation of Julia packages produced by AIN group.
+A registry for simplifying the installation of Julia packages produced by AIN group.
 
 Packages registered with the general registry of Julia will not be registered here too.
 
