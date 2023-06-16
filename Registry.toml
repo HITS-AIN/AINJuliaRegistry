@@ -4,6 +4,7 @@ repo = "https://github.com/HITS-AIN/AINJuliaRegistry"
 description = "Julia registry for AIN produced packaged"
 
 [packages]
+07f64c3a-9b30-4ec3-9543-9b5b1b58bbba = { name = "SDSS_RM_Resampler", path = "S/SDSS_RM_Resampler" }
 2763b4c3-16b4-4cc4-aaa5-7caef3d341dd = { name = "ICCF", path = "I/ICCF" }
 333a9a01-0e78-4d37-bce2-040f730ab5dc = { name = "ProbabilisticFluxVariationGradient", path = "P/ProbabilisticFluxVariationGradient" }
 4498ab02-56af-48f6-b5af-4c1c07c71523 = { name = "GPCC", path = "G/GPCC" }

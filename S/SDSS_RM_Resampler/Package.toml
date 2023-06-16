@@ -1,0 +1,3 @@
+name = "SDSS_RM_Resampler"
+uuid = "07f64c3a-9b30-4ec3-9543-9b5b1b58bbba"
+repo = "https://github.com/HITS-AIN/SDSS_RM_Resampler.jl"
