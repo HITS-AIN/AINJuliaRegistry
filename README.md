@@ -59,5 +59,5 @@ register("/home/nikos/.julia/dev/SDSS_RM_Resampler/",registry="AINJuliaRegistry"
 ### Remove package from registry 
 
 Currently, this has to be done manually. 
-Simply delete the directory that holds the relevant contents.
+Simply delete the directory in the present repository that holds the relevant contents.
 Also remove the corresponding line from file `Registry.toml`.
