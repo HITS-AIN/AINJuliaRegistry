@@ -44,7 +44,7 @@ To remove this registry simply use:
 registry rm AINJuliaRegistry
 ```
 
-## 🛠 Notes to HITS-AIN maintainers:
+## 🛠 Notes for HITS-AIN maintainers
 
 ### Registering Julia packages
 
