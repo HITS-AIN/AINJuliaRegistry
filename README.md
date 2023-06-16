@@ -16,7 +16,7 @@ The easiest way of installing Julia is by downloading a binary file and simply u
 
 ## 🚴 Using the registry
 
-To use this registry, enter package mode with ```]``` while in the Julia REPL and execute (@HITS-AIN users: you may prompted for your github credentials):
+To use this registry, enter package mode with ```]``` while in the Julia REPL and execute:
 
 ```
 registry add https://github.com/HITS-AIN/AINJuliaRegistry
