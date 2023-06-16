@@ -46,7 +46,19 @@ To remove this registry simply use:
 registry rm AINJuliaRegistry
 ```
 
-#### ❗ Note to HITS-AIN maintainers: remove package from registry 
+## Notes to HITS-AIN maintainers:
+
+### Registering a Julia packages
+
+To register a package to this registry, it is recommended to use [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl).
+Below is an example of the commands for the actual registration.
+The function `register` takes as the first argument the location of the package and as a second argument the name of the registry we  want to register our package with. 
+```
+using LocalRegistry
+register("/home/nikos/.julia/dev/SDSS_RM_Resampler/",registry="AINJuliaRegistry")
+```
+
+### Remove package from registry 
 
 Currently, this has to be done manually. 
 Simply delete the directory that holds the relevant contents.
