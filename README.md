@@ -14,7 +14,7 @@ Packages registered with the general registry of Julia will not be registered he
 
 The easiest way of installing Julia is by downloading a binary file and simply uncompressing it in your folder of choice. Please see [here](https://julialang.org/downloads/) for platform specific instructions. Alternatively, one may choose to compile Julia from the source code.
 
-## 🔨 Using the registry
+## 🚴 Using the registry
 
 To use this registry, enter package mode with ```]``` while in the Julia REPL and execute (@HITS-AIN users: you may prompted for your github credentials):
 
@@ -44,12 +44,12 @@ To remove this registry simply use:
 registry rm AINJuliaRegistry
 ```
 
-## Notes to HITS-AIN maintainers:
+## 🛠 Notes to HITS-AIN maintainers:
 
-### Registering a Julia packages
+### Registering Julia packages
 
 To register a package to this registry, it is recommended to use [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl).
-Below is an example of the commands for the actual registration.
+Below is an example of the actual registration.
 The function `register` takes as the first argument the location of the package and as a second argument the name of the registry we  want to register our package with. 
 ```
 using LocalRegistry
