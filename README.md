@@ -61,4 +61,4 @@ register("/home/nikos/.julia/dev/SDSS_RM_Resampler/",registry="AINJuliaRegistry"
 
 Currently, this has to be done manually. 
 Simply delete the directory in the present repository that holds the relevant contents.
-Also remove the corresponding line from file `Registry.toml`.
+Also carefully remove the corresponding line from file `Registry.toml`.
