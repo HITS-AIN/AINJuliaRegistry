@@ -67,4 +67,4 @@ Currently, this has to be done manually.
 Simply delete the directory in the present repository that holds the relevant contents.
 Also carefully remove the corresponding line from file `Registry.toml`.
 
-❗Accidentally removing another line will cause problems to the registry for all users.
+❗Accidentally removing the wrong folder or line will cause problems to the registry for all users.
