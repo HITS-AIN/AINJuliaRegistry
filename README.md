@@ -50,6 +50,7 @@ registry rm AINJuliaRegistry
 
 To register a package to this registry, it is recommended to use [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl).
 Below is an example of the actual registration.
+Note that you will first need to add the registry "AINJuliaRegistry" (see above how) before you can register your own package with it.
 The function `register` takes as the first argument the location of the package and as a second argument the name of the registry we  want to register our package with. 
 ```
 using LocalRegistry
