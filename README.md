@@ -43,6 +43,8 @@ To remove this registry simply use:
 ```
 registry rm AINJuliaRegistry
 ```
+This will affect only your own system without any consequences for this registry or other users.
+
 
 ## 🛠 Notes for HITS-AIN maintainers
 
