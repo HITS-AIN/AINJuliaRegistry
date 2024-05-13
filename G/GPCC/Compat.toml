@@ -6,5 +6,5 @@ PyPlot = "2"
 StatsFuns = ["0.9", "1"]
 julia = "1"
 
-["0.1.35-0"]
+["0.1.35"]
 Suppressor = "0.2"
