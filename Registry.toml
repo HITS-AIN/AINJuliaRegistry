@@ -15,5 +15,4 @@ description = "Julia registry for AIN produced packaged"
 ad9bf4b2-67b2-497f-82b2-ca17e89facaf = { name = "DelayCorrectedPFVG", path = "D/DelayCorrectedPFVG" }
 c0897b8e-83d0-4fb6-ae3b-cc8fb0b0b58e = { name = "FPW", path = "F/FPW" }
 cff4ffb7-3881-4a2c-8cec-a201ef7afd5c = { name = "TransferFunctions", path = "T/TransferFunctions" }
-d6555c65-c469-4a06-b862-e0078cd500ae = { name = "DelayCorrectedPFVGData", path = "D/DelayCorrectedPFVGData" }
 e472fcb8-ab9f-4ff8-82d2-c5cadce53af3 = { name = "MiscUtil", path = "M/MiscUtil" }
