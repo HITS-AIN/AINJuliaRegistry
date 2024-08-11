@@ -1,0 +1,3 @@
+name = "DelayCorrectedPFVGData"
+uuid = "d6555c65-c469-4a06-b862-e0078cd500ae"
+repo = "https://github.com/HITS-AIN/DelayCorrectedPFVGData.jl.git"
