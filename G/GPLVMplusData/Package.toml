@@ -1,0 +1,3 @@
+name = "GPLVMplusData"
+uuid = "4c3045de-0da2-483a-8ead-ab5165d83806"
+repo = "https://github.com/HITS-AIN/GPLVMplusData.jl.git"
