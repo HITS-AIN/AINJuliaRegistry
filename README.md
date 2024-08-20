@@ -13,6 +13,7 @@ Packages registered with the general registry of Julia will not be registered he
 Using this registry you can easily use the following codes:
 - [Probabilistic Flux Variation Gradient](https://github.com/HITS-AIN/ProbabilisticFluxVariationGradient.jl)
 - [Gaussian Process Cross Correlation](https://github.com/HITS-AIN/GPCC.jl)
+- [GPLVMplus](https://github.com/HITS-AIN/GPLVMplus.jl)
 
 Software developed by the AIN can be found [here](https://github.com/HITS-AIN).
 
