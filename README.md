@@ -68,7 +68,7 @@ register("/home/nikos/.julia/dev/SDSS_RM_Resampler/",registry="AINJuliaRegistry"
 
 ### Remove package from registry 
 
-Currently, this has to be done manually. 
+Currently, this has to be done manually (see [note](https://github.com/GunnarFarneback/LocalRegistry.jl/blob/master/docs/delete_package.md)). 
 Simply delete the directory in the present repository that holds the relevant contents.
 Also carefully remove the corresponding line from file `Registry.toml`.
 
