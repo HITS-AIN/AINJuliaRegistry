@@ -7,6 +7,7 @@ description = "Julia registry for AIN produced packaged"
 07f64c3a-9b30-4ec3-9543-9b5b1b58bbba = { name = "SDSS_RM_Resampler", path = "S/SDSS_RM_Resampler" }
 2763b4c3-16b4-4cc4-aaa5-7caef3d341dd = { name = "ICCF", path = "I/ICCF" }
 333a9a01-0e78-4d37-bce2-040f730ab5dc = { name = "ProbabilisticFluxVariationGradient", path = "P/ProbabilisticFluxVariationGradient" }
+3ed8efa5-706a-4739-9884-79022218f524 = { name = "AdaGP", path = "A/AdaGP" }
 4498ab02-56af-48f6-b5af-4c1c07c71523 = { name = "GPCC", path = "G/GPCC" }
 4c3045de-0da2-483a-8ead-ab5165d83806 = { name = "GPLVMplusData", path = "G/GPLVMplusData" }
 4ead5c4e-c2ff-4d62-91d1-2960feabfb2a = { name = "HITSOpenDayJuly2022", path = "H/HITSOpenDayJuly2022" }
