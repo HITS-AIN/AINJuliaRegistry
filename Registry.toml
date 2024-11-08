@@ -11,6 +11,7 @@ description = "Julia registry for AIN produced packaged"
 4c3045de-0da2-483a-8ead-ab5165d83806 = { name = "GPLVMplusData", path = "G/GPLVMplusData" }
 4ead5c4e-c2ff-4d62-91d1-2960feabfb2a = { name = "HITSOpenDayJuly2022", path = "H/HITSOpenDayJuly2022" }
 514699ec-cad0-4573-b799-e90939df45ca = { name = "ExponentialExpectations", path = "E/ExponentialExpectations" }
+53ca922f-95ab-4814-be4f-2c2ccfc107cd = { name = "JuliaDemoGP", path = "J/JuliaDemoGP" }
 593bb313-7fc8-446a-96f6-bb1e55a541c0 = { name = "PFVG_AA2021", path = "P/PFVG_AA2021" }
 643c7dc9-154b-47f5-a9a9-7aebf3d59150 = { name = "GPCCVirial", path = "G/GPCCVirial" }
 6ae24528-df3b-47a6-8d0b-c8e9925c8a04 = { name = "GPCCData", path = "G/GPCCData" }
