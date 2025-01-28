@@ -1,7 +1,12 @@
 [0]
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-MiscUtil = "e472fcb8-ab9f-4ff8-82d2-c5cadce53af3"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
-PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+
+["0 - 0.1.8"]
+RecipesBase = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
+
+["0.1.70 - 0"]
+MiscUtil = "e472fcb8-ab9f-4ff8-82d2-c5cadce53af3"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
