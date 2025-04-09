@@ -30,7 +30,7 @@ To use this registry, enter package mode with ```]``` while in the Julia REPL an
 registry add https://github.com/HITS-AIN/AINJuliaRegistry
 ```
 
-If used with a fresh installation of Julia, you may need to use the following line (see issue [here](https://forum.mimiframework.org/t/error-installing-mimi-under-v1-3-1/109/4)):
+If used with a fresh installation of Julia, you may need to use the following line (see issue [here](https://forum.mimiframework.org/t/error-installing-mimi-under-v1-3-1/109/4), though this seems to have affected only early Julia versions):
 
 ```
 registry add https://github.com/JuliaRegistries/General
