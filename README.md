@@ -20,6 +20,7 @@ Software developed by the AIN can be found [here](https://github.com/HITS-AIN).
 ## <img width="27" height="17.5" src=smalljulia.png> Installing Julia
 
 The easiest way of installing Julia is by downloading a binary file and simply uncompressing it in your folder of choice. Please see [here](https://julialang.org/downloads/) for platform specific instructions. Alternatively, one may choose to compile Julia from the source code.
+Please do not use the version of "Julia" shipped by Linux or BSD package managers.
 
 ## 🚴 Using the registry
 
