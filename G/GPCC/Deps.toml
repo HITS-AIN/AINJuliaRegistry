@@ -17,3 +17,6 @@ PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
 
 ["0-0.2.5"]
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+["0.2.7-0"]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
